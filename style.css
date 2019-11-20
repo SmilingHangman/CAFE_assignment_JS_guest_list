@@ -1,0 +1,4 @@
+.guestListDisplay {
+    display: flex;
+    flex-direction: column;
+}
